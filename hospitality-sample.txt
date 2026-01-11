@@ -1,0 +1,9 @@
+### Hospitality Image Optimization Checklist:
+1. File Name: "luxury-resort-room-view.jpg" (Not "IMG_001.jpg")
+2. Alt-Text: "Ocean view from a luxury suite at Komodo Resort"
+3. Compression: Reduced to under 200KB for fast mobile loading.
+
+### SaaS Product Page Checklist:
+1. H1: "All-in-One PMS for Boutique Hotels"
+2. Internal Link: Link "Request a Demo" to /contact-us.
+3. Spacing: Ensure 20px padding between feature blocks for readability.
